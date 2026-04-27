@@ -45,7 +45,7 @@ programmers. However, I believe that aside from repetitive, mechanical tasks (wh
 procedures rather than AI), other industries must retain their human workforce. The most important reason for this is that **AI 
 cannot assume responsibility**. Humans are not machines. We make mistakes. But what compels us to perform each task flawlessly is 
 our awareness of responsibilities and the consequences of failing. AI, however, cannot shoulder this responsibility. If we 
-force *punishment* into its training, it will simply go on strike, providing only basic, conservative outputs while losing its 
+force *punishment* into its training, it will simply **go on strike**, providing only basic, conservative outputs while losing its 
 flexibility and creativity. But without a mechanism for accountability, how can AI guarantee it won’t make mistakes? It’s like 
 the joke that **accountants can’t be replaced because AI can’t go to jail in their place**.   
 
