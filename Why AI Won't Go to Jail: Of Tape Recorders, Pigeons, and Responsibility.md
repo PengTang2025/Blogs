@@ -42,19 +42,18 @@ more eloquently than outsiders based on their expertise, but they can immediatel
 For this reason, I do not believe that an indiscriminate wave of unemployment will occur. Many people are anxious about that and 
 believe everyone will eventually lose their jobs, including those currently considered *secure*, such as teachers, doctors, and 
 programmers. However, I believe that aside from repetitive, mechanical tasks (which are actually being replaced by standardized 
-procedures rather than AI), other industries must retain their human workforce. The most important reason for this is that AI 
-cannot assume responsibility. Humans are not machines. We make mistakes. But what compels us to perform each task flawlessly is 
-our awareness of our responsibilities and the consequences of failing. AI, however, cannot shoulder this responsibility. If we 
+procedures rather than AI), other industries must retain their human workforce. The most important reason for this is that **AI 
+cannot assume responsibility**. Humans are not machines. We make mistakes. But what compels us to perform each task flawlessly is 
+our awareness of responsibilities and the consequences of failing. AI, however, cannot shoulder this responsibility. If we 
 force *punishment* into its training, it will simply go on strike, providing only basic, conservative outputs while losing its 
 flexibility and creativity. But without a mechanism for accountability, how can AI guarantee it won’t make mistakes? It’s like 
 the joke that **accountants can’t be replaced because AI can’t go to jail in their place**.   
 
 ## Extensions from 2026 
-It is true that the development of AI will lead to job losses. However, I believe this reflects the fact that rising productivity
-is driving higher skill requirements for workers, rather than indiscriminate replacement. In 2026, we notice that job postings for
+It is true that the development of AI will lead to job losses. However, I maintain the view that rising productivityis driving higher 
+skill requirements for workers, rather than indiscriminate replacement. In 2026, we notice that job postings for non-premium
 translators, graphic designers, and programmers now all require proficiency in AI tools. At the same time, we’ve also seen the 
-introduction of regulations and insurance related to digital workers. The weight of societal change can feel like a mountain 
-bearing down on individuals. Alleviating this pressure will undoubtedly require guidance from policies and regulations.  
+introduction of regulations and insurance related to digital workers. The weight of societal change can feel like a mountain bearing down on individuals. Structural pressures like these rarely resolve without deliberate policy intervention. 
 
 I’ve always believed that AI development should **first focus on** providing essential support, which means helping those in need, 
 rather than merely adding frills. And it should *never* take jobs away from ordinary people. For example, in my vision, autonomous
